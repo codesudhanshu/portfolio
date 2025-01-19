@@ -131,7 +131,7 @@ const experiences = [
 		company_name: "The Algohype Analytics",
 		icon: "/company/thealgohype.png",
 		iconBg: "#FFFFFF",
-		date: "April 2023 - October 2024",
+		date: "April 2023 - October 2023",
 		points: [
 			"Created robust ERP solutions, demonstrating proficiency in full-stack web development, particularly emphasizing front-end and back-end technologies such as the MERN stack.",
 			"Successful Website Development: Designed and developed a visually appealing and user-friendly website using Reactjs and Nodejs.",
