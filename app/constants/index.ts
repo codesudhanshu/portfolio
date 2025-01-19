@@ -168,7 +168,7 @@ const testimonials = [
 			"Also do check out my Software Engineer Portfolio, where I have shared by design studies.",
 		name: "Sudhanshu Srivastava",
 		image: "/socialmedia/portfolio.svg",
-		link: "https://sudhanshusrivastava.netlify.app/",
+		link: "https://sudhanshusrivastava-iota.vercel.app/",
 	},
 	{
 		id: 3,
